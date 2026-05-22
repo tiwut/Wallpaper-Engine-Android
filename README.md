@@ -2,6 +2,10 @@
 
 A lightweight, highly customizable live wallpaper engine for Android with a clean, polished UI and fluid animations. Easily manage your local image vault and define smart rules to change walls over time, battery levels, or via phone shake.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/10f697be-39d6-4e9f-bde4-d0aeec0e9cea" width="300" class="avatar avatar-user" />
+</div>
+
 ## Features
 
 - **Dynamic Transitions:** Choose from over a dozen smooth visual transitions such as Crossfade, Wipes, Circular Reveals, Flips, Shrink-Grow, and more.
