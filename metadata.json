@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Engine",
+  "description": "App that changes wallpaper automatically based on time, sensors, and actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
